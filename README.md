@@ -1,13 +1,13 @@
-# Pinky
+# easybrain
 
-Pinky is a handy little helper for creating simple neural networks for evolutionary learning.
+This is a handy little helper for creating simple neural networks for evolutionary learning.
 
 ```shell
-npm i pinky
+npm i easybrain
 ```
 
 ```javascript
-import Brain from 'pinky'
+import Brain from 'easybrain'
 
 const brain = new Brain();
 
