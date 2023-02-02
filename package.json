@@ -1,5 +1,5 @@
 {
-  "name": "pinky",
+  "name": "@mktcode/pinky",
   "version": "1.0.0",
   "description": "",
   "main": "dist/brain.js",
