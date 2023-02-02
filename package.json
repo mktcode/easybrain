@@ -1,8 +1,8 @@
 {
-  "name": "brian",
+  "name": "pinky",
   "version": "1.0.0",
   "description": "",
-  "main": "dist/brian.js",
+  "main": "dist/brain.js",
   "scripts": {
     "build": "tsc --outDir dist",
     "test": "echo \"Error: no test specified\" && exit 1"
